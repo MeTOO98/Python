@@ -1,5 +1,3 @@
-Perfect 👍 this last version is the **cleanest one** (with `deposit` correctly spelled). Here’s the **README.md** tailored for it:
-
 ---
 
 # 🏦 Bank Management System (OOP in Python)
